@@ -1,0 +1,20 @@
+I have been having fun learning in html, it seems like a simple concept to grasp
+for me compared to other languages. I have been having harder times following along
+with in class tutorials, things move so fast when navigating back and forth from
+zoom to my own tabs. I am still managing. I had a fun time when i made the example
+webpage, I want to continue adding more things to it. I want to rewatch some of the lectures 
+so I can redo some in class tutorials because lately my html attempts have been broken and I
+do not know where I messed up. I plan on practicing extra this upcoming week but I will leave 
+a link to my example webpage below. 
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p> hi! this is my practice/example webpage space. You could also find me on instagram <a href="https://www.instagram.com/santanavaldillez/">@santanavaldillez</a></p>
+    <ul>
+      <h3>BIGGER HEADER</h3>
+    </ul>
+  </body>
+</html>
