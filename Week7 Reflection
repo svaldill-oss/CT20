@@ -1,0 +1,13 @@
+I had and am having a very fun time coming up with an idea for the Recombination project. 
+I got some very good advice from Lilly to sketch my ideas out to better visualize what 
+exactly it is I want to make. I was watching a minecraft video earlier this week and 
+I have always loved the way the paintings in the game look. I think it is such a funny feature
+and I took inspiration to include that into my Recombination project by choosing an
+album cover I really like and then altering it in p5js to resemble the style of the minecraft paintings
+ by pixelating it a bit. I also wanted to include an interactive element however, so I went into photoshop 
+and got rid of a key component of the album cover before pixelating it because I want to re-add it in as 
+the design of the cursor so when the user moves their cursor around the album cover it'll be a bee flying 
+around instead which seemed to be a lot of fun. I will attach the link to where I am currently at which is everything but
+the cursor. https://editor.p5js.org/svaldill/sketches/alc2KroHl
+It has been very interesting learning to create the grid of my album and replacing the square with rgb values to create the 
+pixelation effect, very cool learning to do it. I am excited to finish and see my vision come to life. 
